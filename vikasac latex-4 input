@@ -1,0 +1,34 @@
+\documentclass[a4paper,15pt]{article}
+
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[c]{CHANNABASAVESHWARA INSTITUTE OF TECHNOLOGY}
+\fancyfoot{\thepage}
+\begin{document}
+\textcolor{blue}{\textbf{DEPARTMENT OF INFORMATION SCIENCE AND ENGINEERING}}\\
+\vspace{5mm}
+\centering
+\vspace{5mm}
+\textcolor{red}{\underline{\textbf{CERTIFICATE}}}\\
+\paragraph{}
+This is to certify that the social connectivity and responsibility activities has been successfully carried out by VIKAS A C with 1CG22IS058 in partial fulfilment for the LATEX course of Bachelor of engineering in Information Science and engineering department of the VISVESVARAYA TECHNOLOGICAL UNIVERSITY, Belagavi during the academic year 2023-2024.It is certified that all the correction indicated for internal assessments have been incorporated in the report.the social connectivity and responsibility activities report has been approved as it satisfies the academics requirements in respect of LATEX course of bachelor of engineering degree
+\begin{center}
+    \centering
+-----------------------------------\\
+\vspace{5mm}
+\underline{\textbf{signature of the staff coordinator}}\\
+\vspace{5mm}
+\textcolor{red}{professor}\\
+CIT,GUBBI\\
+\vspace{10mm}
+\centering
+------------------------------------\\
+\underline{\textbf{signature of the HOD}}\\
+\vspace{3mm}
+\textcolor{red}{professor}\\
+CIT,GUBBI\\
+\end{center}
+\end{document}
