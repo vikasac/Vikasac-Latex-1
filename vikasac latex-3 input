@@ -1,0 +1,48 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{xcolor}
+\geometry{a4paper,total={180mm,250mm},left=20mm,top=20mm}
+
+
+
+\begin{document}
+\begin{center}
+\textcolor{orange}{\large\textbf}{VISVESVARAYA TECHNOLOGICAL UNIVERSITY}\\"Jnana Sangama"
+
+,Belagavi-560014,karnataka\\
+
+\vspace{2mm}
+\includegraphics[scale=0.4]{sudhu.png}\\
+
+\vspace{2mm}
+\textcolor{red}{A REPORT}\\
+\textcolor{red}{ON}\\
+\textcolor{orange}{\textbf{SOCIAL CONNECT AND RESPONSIBILITY ACTIVITIES}}\\
+\small{submitted in partial fulfillmentof the requirements for the award of degree of}\\
+\vspace{5mm}
+\textcolor{pink}{\textbf{BACHELOR OF ENGINEERING}}\\
+IN\\
+\textbf{INFORMATION SCIENCE AND ENGINEERING}\\
+\vspace{5mm}
+\textcolor{blue}{\underline{submitted By}}\\
+\textbf{NAME: VIKAS A C}\\
+\textbf{USN: 1CG22IS058}\\
+\vspace{5mm}
+\textcolor{blue}{\underline{{\textbf{Under the guidance of}}}}\\
+\large\textbf{Anil Kumar}\\
+Assistant Professor\\
+Dept Of ISE\\
+\centering\includegraphics[scale=0.3]{cit.png}\\
+
+\textcolor{blue}{\textbf{Department of Information Science and Engineering}}\\
+\textcolor{red}{\textbf{CHANNABASAVESWARA INSTITUTE OF TECHNOLOGY}}\\
+(Affiliated to Visvesvaraya Technological University)\\
+Gubbi,Tumakuru-572216,karnataka\\
+
+
+\end{center}
+
+
+
+\end{document}
